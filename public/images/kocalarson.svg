@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="katman_1" data-name="katman 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3521.62 3521.62">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-family: ZabalDEMO-Light, 'Zabal DEMO';
+        font-size: 382.99px;
+        font-weight: 300;
+      }
+
+      .cls-6 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-7 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: .03em;
+      }
+
+      .cls-10 {
+        letter-spacing: .02em;
+      }
+
+      .cls-5 {
+        font-family: ZabalDEMO-ExtraBold, 'Zabal DEMO';
+        font-size: 731px;
+        font-weight: 700;
+      }
+    </style>
+    <filter id="drop-shadow-1" x="778.33" y="211.05" width="1918.06" height="1905.74" filterUnits="userSpaceOnUse">
+      <feOffset dx="14" dy="-5"/>
+      <feGaussianBlur result="blur" stdDeviation="24"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g>
+    <polygon class="cls-3" points="836.29 210.49 1230.88 587.92 827.23 919.5 836.29 210.49"/>
+    <g>
+      <polygon class="cls-3" points="817.81 1483.89 810.51 1984.1 2735.9 174.5 2077.08 174.5 817.81 1483.89"/>
+      <path class="cls-3" d="M1991.79,1293.02c-121.22,115.4-235.05,216.14-350.9,331.99,145.97,144.36,245.61,234.25,391.58,378.61,227.76,0,483.06,27.53,710.82,27.53-259.45-256.86-492.05-481.27-751.5-738.13Z"/>
+      <g class="cls-6">
+        <path class="cls-3" d="M862.03,290.93l326.74,311.84c28.99,27.67,29.03,73.94.09,101.66l-327.32,313.46c-31.28,29.96-83.22,7.79-83.22-35.53V326.75c0-43.56,52.19-65.9,83.7-35.82Z"/>
+        <path class="cls-3" d="M779.1,1500.85l4.31,491.48c.36,41.52,50.15,62.52,80.14,33.81L2674.57,292.66c30.86-29.54,9.95-81.61-32.76-81.61h-581.93c-12.16,0-23.86,4.68-32.67,13.07L841.78,1352.81c-40.48,38.54-63.18,92.14-62.69,148.03Z"/>
+        <path class="cls-3" d="M1914.43,1365.34c-99.24,94.24-198.49,188.48-297.73,282.72-17.61,16.73-17.65,44.79-.07,61.56,138.17,131.81,276.34,263.62,414.51,395.42,7.9,7.54,18.41,11.75,29.33,11.75h593.35c38.33,0,57.07-46.75,29.35-73.22-236.71-226.05-473.42-452.1-710.12-678.15-16.39-15.65-42.17-15.69-58.6-.08Z"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <text class="cls-5" transform="translate(130.87 2787.64) scale(.95 1)"><tspan class="cls-1" x="0" y="0">K</tspan><tspan class="cls-2" x="445.17" y="0">O</tspan><tspan class="cls-8" x="1044.58" y="0">C</tspan><tspan x="1585.52" y="0">ALAR</tspan></text>
+    <text class="cls-4" transform="translate(151.12 3261.33)"><tspan class="cls-9" x="0" y="0">BE</tspan><tspan class="cls-7" x="461.88" y="0">T</tspan><tspan class="cls-9" x="670.61" y="0">ON Ü</tspan><tspan class="cls-10" x="1651.05" y="0">R</tspan><tspan class="cls-9" x="1893.1" y="0">ÜNLERİ</tspan></text>
+  </g>
+</svg>
